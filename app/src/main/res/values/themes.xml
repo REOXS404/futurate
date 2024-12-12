@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Futurate" parent="Theme.Material3.DayNight">
+        <!-- Correct way to define theme attributes -->
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorOnPrimary">@color/white_purple</item>
+        <item name="colorPrimaryContainer">@color/white</item>
+    </style>
+
+    <style name="Theme.Futurate" parent="Base.Theme.Futurate" />
+</resources>

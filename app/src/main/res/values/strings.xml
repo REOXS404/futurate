@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">futurate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="image_url">@drawable/ex_profile_pic</string>
+    <!-- Walkthrough Titles -->
+    <string name="walkthrough_title_1">Welcome</string>
+    <string name="walkthrough_title_2">Features</string>
+    <string name="walkthrough_title_3">Get Started</string>
+
+    <!-- Walkthrough Descriptions -->
+    <string name="walkthrough_desc_1">Welcome to our app! Discover how it can help improve your daily life.</string>
+    <string name="walkthrough_desc_2">Explore amazing features designed to make everything easier and more enjoyable.</string>
+    <string name="walkthrough_desc_3">You\'re just a step away from unlocking the full potential of this app!</string>
+    <string name="hi_morgan">Hi morgan</string>
+    <string name="skills">Skills:</string>
+    <string name="android_development_kotlin">Android Development, Kotlin</string>
+    <string name="major">Major:</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="university_of_technology">University of Technology</string>
+    <string name="hobby">Hobby:</string>
+    <string name="coding_reading_playing_guitar">Coding, Reading, Playing Guitar</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="walkthrough_description_goes_here">Walkthrough description goes here.</string>
+    <string name="walkthrough_image">walkthrough_image</string>
+    <string name="walkthrough_title">Walkthrough Title</string>
+    <string name="profile">Profile</string>
+    <string name="john_doe">John Doe</string>
+    <string name="enter_user_skill">Enter User Skill</string>
+    <string name="generate">Generate</string>
+    <string name="enter_skills_comma_separated">Enter skills (comma-separated)</string>
+</resources>
